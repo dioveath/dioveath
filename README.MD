@@ -1,6 +1,6 @@
 <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dioveath&theme=github_dark" alt="dioveath" align = "center"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dioveath&theme=monokai&" alt="dioveath" align = "center"/>
 </p>
 
 <br/>
