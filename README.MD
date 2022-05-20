@@ -1,32 +1,44 @@
+<summary><b>🔎 Github Profile Details</b></summary>
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dioveath&theme=github_dark" alt="dioveath" align = "center"/>
+</p>
+
+<br/>
+
+<summary><b>⚡ Github Stats</b></summary>
+<p align="center">
 <a href="https://github.com/dioveath">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dioveath&theme=dark&show_icons=true&custom_title=dioveath%27s%20Stats"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dioveath&theme=radical&show_icons=true&hide_border=true&count_private=true&custom_title=dioveath%27s%20Stats"/>
 </a>
-
-<br>
-<hr>
-<br>
-
 <a href="https://github.com/dioveath">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioveath&theme=dark&layout=compact" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioveath&theme=radical&show_icons=true&hide_border=true&layout=compact" />
 </a>
+</p>
 
-<br>
-<hr>
-<br>
 
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center">
 <a href="https://github.com/dioveath">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dioveath&theme=dark"/>
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dioveath&theme=radical&show_icons=true&hide_border=true&stroke=e05397&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="dioveath streaks"/>
 </a>
+</p>
 
-<br>
-<hr>
-<br>
 
-<a href="https://github.com/dioveath/chc-gaming">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dioveath&theme=dark&repo=chc-gaming"/>
-</a>
+<summary><b>🔥 Github Repos</b></summary>
+<!-- Top Repo -->
+<p align="center">
+	<a href="https://github.com/dioveath/chc-gaming">
+		<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=dioveath&theme=dark&repo=chc-gaming"/>
+	</a>
+	<a href="https://github.com/dioveath/sudokumania">
+		<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=dioveath&theme=dark&repo=sudokumania" />
+	</a>
+</p>
 
-<a href="https://github.com/dioveath/sudokumania">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dioveath&theme=dark&repo=sudokumania" />
-</a>
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"
+	<a href="https://activity-graph.herokuapp.com/graph?username=dioveath&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&">
+		<img alt="Saroj Rai Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dioveath&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
+	</a>
+</p>
 
