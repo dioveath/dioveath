@@ -37,8 +37,8 @@
 	<a href="https://github.com/dioveath/chc-gaming">
 		<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=dioveath&theme=radical&hide_border=true&repo=chc-gaming"/>
 	</a>
-	<a href="https://github.com/dioveath/sudokumania">
-		<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=dioveath&theme=radical&hide_border=true&repo=sudokumania" />
+	<a href="https://github.com/dioveath/gamejam2022-duality">
+		<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=dioveath&theme=radical&hide_border=true&repo=gamejam2022-duality" />
 	</a>
 </p>
 
