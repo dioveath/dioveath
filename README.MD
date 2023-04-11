@@ -1,4 +1,4 @@
-![Boys posing their Money Shots](assets/fifa_league_poster_cropped.png)
+<!-- ![Boys posing their Money Shots](assets/fifa_league_poster_cropped.png) -->
 <!-- #### Boys posing their Money Shots -->
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/dioveath0)
@@ -13,6 +13,7 @@
 </p> -->
 
 [https://raisaroj360.com.np](https://raisaroj360.com.np) <br/>
+[https://bluecharicha.wordpress.com](https://bluecharicha.wordpress.com) <br/>
 [https://dioveath.itch.io](https://dioveath.itch.io) <br/>
 [https://prompters.dev](https://prompters.dev) <br/>
 <hr>
