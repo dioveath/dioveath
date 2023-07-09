@@ -15,6 +15,7 @@
 [https://raisaroj360.com.np](https://raisaroj360.com.np) <br/>
 [https://bluecharicha.wordpress.com](https://bluecharicha.wordpress.com) <br/>
 [https://dioveath.itch.io](https://dioveath.itch.io) <br/>
+[http://charichagaming.com.np](http://charichagaming.com.np) <br/>
 [https://prompters.dev](https://prompters.dev) <br/>
 <hr>
 
