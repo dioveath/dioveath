@@ -16,11 +16,3 @@
 [https://bluecharicha.wordpress.com](https://bluecharicha.wordpress.com) <br/>
 [https://dioveath.itch.io](https://dioveath.itch.io) <br/>
 [https://zeroface.co](https://zeroface.co) <br/>
-
-<p align="center">
-<a href="https://github.com/dioveath">
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dioveath&theme=radical&show_icons=true&hide_border=true&stroke=e05397&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="dioveath streaks" width=/>
-</a>
-</p>
-
-[![](https://visitcount.itsvg.in/api?id=dioveath&icon=0&color=6)](https://visitcount.itsvg.in)
