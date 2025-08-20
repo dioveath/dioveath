@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/dioveath) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/@dioveath)
 
-<!-- ### LOVE | RESPECT | NO MERCY -->
+### LOVE | RESPECT | NO MERCY
 
 <!-- <p align="center">
 <img src="assets/ninja_h2r.png" width="10%"/>
