@@ -13,6 +13,6 @@
 </p> -->
 
 [https://raisaroj360.com.np](https://raisaroj360.com.np) <br/>
-[https://bluecharicha.wordpress.com](https://bluecharicha.wordpress.com) <br/>
 [https://dioveath.itch.io](https://dioveath.itch.io) <br/>
 [https://zeroface.co](https://zeroface.co) <br/>
+[https://thefutsalhouse.com](https://thefustalhouse.com) <br/>
